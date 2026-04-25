@@ -7,6 +7,7 @@ Abhishek
 acall
 achat
 Achird
+AClient
 acomplete
 adamw
 ADAS
@@ -106,6 +107,7 @@ avec
 Avenir
 aworkflow
 axs
+axvline
 Ayra
 Ayyappa
 backstory
@@ -132,6 +134,7 @@ bgr
 BGR
 bgswap
 Bhagwat
+Bharath
 Biden
 bigframes
 bigquery
@@ -197,6 +200,7 @@ cbp
 ccc
 cce
 cctv
+CDIP
 cdiv
 CDNs
 ceb
@@ -318,6 +322,7 @@ Demme
 demouser
 dente
 Depatmint
+Derpanis
 descgen
 deskmates
 Dexin
@@ -350,6 +355,7 @@ Downscale
 dpi
 dpo
 DPO
+DQN
 draig
 Dreesen
 drilldown
@@ -609,6 +615,7 @@ gtk
 guanciale
 Gundogan
 gunicorn
+Guterres
 GWLP
 hadolint
 hahaha
@@ -620,6 +627,7 @@ Hannaneh
 Harvick
 hashtag
 hashtags
+Haumea
 Hawkins'll
 Hayao
 Hbf
@@ -643,6 +651,7 @@ Hikaru
 Hiromasa
 Hisaki
 historien
+histplot
 Hlc
 Hmmm
 HMO
@@ -674,6 +683,7 @@ HZN
 iap
 iban
 icd
+ICDAR
 ICICI
 ICML
 icudtl
@@ -681,11 +691,13 @@ idcg
 idk
 idks
 idxs
+IEA
 ience
 ifconfig
 IFI
 ifidx
 iinfo
+IIT
 ILB
 Ilkay
 iloc
@@ -772,6 +784,7 @@ Kanagawa
 Katsura
 Kaufmanns
 Kawagoe
+kde
 Keanu
 kendall
 kenleejr
@@ -826,6 +839,7 @@ lecie
 lego
 lenzing
 Levaquin
+levelized
 levelname
 Leventer
 lexer
@@ -888,6 +902,7 @@ magika
 Mahindra
 mahut
 mai
+Makemake
 makeover
 Malware
 Mamah
@@ -954,6 +969,7 @@ MMLU
 MMO
 mmol
 mmr
+Mnih
 modelfile
 Molaison
 monty
@@ -981,6 +997,7 @@ Mvar
 mvn
 mvnw
 mvp
+MWh
 mwouts
 myaccount
 mydb
@@ -1083,6 +1100,7 @@ OMR
 onesie
 onesies
 Onone
+OOD
 OOM
 Oort
 OOTB
@@ -1206,6 +1224,7 @@ pyautogen
 pyav
 pybind
 pydantic
+pydrive
 pydub
 PYINK
 pymupdf
@@ -1217,6 +1236,7 @@ pytrec
 pyupgrade
 pyvis
 Pzk
+Qantas
 qas
 QEDC
 QLo
@@ -1245,6 +1265,7 @@ rahhhrr
 rai
 Raikkonen
 Rajpurkar
+Ramblas
 ramen
 Ranurte
 rapideval
@@ -1308,6 +1329,7 @@ Ruchika
 runjdwp
 RUNPATH
 Rupjit
+RVL
 RVR
 RYDE
 saaagesh
@@ -1359,6 +1381,7 @@ SHEBA
 shedd
 Shenzhou
 Shibuya
+Shinjuku
 Shklovsky
 Shohei
 shortdesc
@@ -1553,6 +1576,7 @@ ubuntu
 udf
 UDF
 UDFs
+Ufkes
 uids
 UIs
 Ukiyo
@@ -1600,6 +1624,7 @@ Vayots
 VBG
 vcodec
 VCPU
+vdb
 vectoral
 vectordb
 veo
@@ -1629,6 +1654,7 @@ VMAF
 VMs
 vnc
 voiceover
+Volodymyr
 vos
 VOS
 votre
@@ -1730,6 +1756,7 @@ yanchor
 yaxes
 yaxis
 ycol
+ydf
 yedoensis
 Ykb
 ylabel
@@ -1743,6 +1770,7 @@ yref
 ytd
 ytick
 yticks
+Yuxi
 Yuxuan
 Yuzuru
 zakarid
